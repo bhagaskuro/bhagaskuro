@@ -2,13 +2,8 @@
   <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/header.gif" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
 </div>
 
-###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/divider-connect.svg" alt="Connect with me at" width="100%" />
-</div>
-
-<div align="left">
   <a href="https://www.linkedin.com/in/bhagas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
