@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/hero-final.svg" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/header.gif" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
 </div>
 
 ###
