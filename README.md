@@ -1,63 +1,72 @@
-<h1 align="center">Hi, I'm Bhagaskoro P. Nindyalit 👋</h1>
-<h3 align="center">bhagaskuro · he/him</h3>
-<p align="center">Ordinary Human</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/hero-final.svg" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
+</div>
 
-<p align="center">
-  📍 South Jakarta
+###
+
+<h3 align="left">Connect with me at</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">About Me</h3>
+
+<div align="left">
+
+- 🧑‍💻 Just an ordinary human building things with code.
+- 🌐 Comfortable across the stack — from frontend languages and frameworks to DevOps and cloud tooling.
+- ⚙️ Enjoy working with React, Next.js, and Vue for building interfaces.
+- ☁️ Familiar with Docker, GitLab, GitHub, and AWS for deployment and infrastructure.
+- 🚀 Always exploring new tools and improving my workflow.
+
+</div>
+
+###
+
+<h3 align="left">Tech Stack</h3>
+
+<h4 align="left">Languages</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,java,python&perline=9" width="600" alt="languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagaskuro&show_icons=true&theme=dark&hide_border=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagaskuro&layout=compact&theme=dark&hide_border=true" alt="languages graph" />
+<h4 align="left">Frameworks & Libraries</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind,nodejs,express,laravel&perline=8" width="600" alt="frameworks" />
 </p>
 
----
-
-## 🛠 Tech Stack
-
-**Used Language**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java" />
+<h4 align="left">DevOps & Tools</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,githubactions,nginx,linux,vscode,postman&perline=9" width="600" alt="devops tools" />
 </p>
 
-**Used Framework**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind" />
+<h4 align="left">Cloud & Database</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,postgres,mongodb,redis,firebase&perline=7" width="600" alt="cloud database" />
 </p>
 
-**DevOps Tech**
+<!--
+Tinggal tambahin kode icon baru ke daftar "i=" tiap baris kalau mau nambah skill lagi.
+Cek daftar lengkap kode icon di https://skillicons.dev
+-->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,gitlab,github" />
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
-</p>
+###
 
-**Cloud Tech**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
----
-
-## 🔗 Connect with me at
-
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/output/snake.svg" alt="Snake animation" />
 
 <!--
 Catatan setup snake animation (opsional, butuh GitHub Actions):
