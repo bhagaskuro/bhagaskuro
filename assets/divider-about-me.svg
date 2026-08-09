@@ -1,0 +1,25 @@
+<svg width="860" height="64" viewBox="0 0 860 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#0d0904"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9d54"/>
+      <stop offset="100%" stop-color="#ff6a1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="860" height="64" rx="10" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="859" height="63" rx="10" fill="none" stroke="#ff8a3d" stroke-opacity="0.15"/>
+
+  <line x1="30" y1="32.0" x2="294.0" y2="32.0" stroke="#ff8a3d" stroke-opacity="0.55" stroke-width="1.2"/>
+  <line x1="566.0" y1="32.0" x2="830" y2="32.0" stroke="#ff8a3d" stroke-opacity="0.55" stroke-width="1.2"/>
+
+  <circle cx="30" cy="32.0" r="2" fill="#ff8a3d" fill-opacity="0.6"/>
+  <circle cx="830" cy="32.0" r="2" fill="#ff8a3d" fill-opacity="0.6"/>
+
+  <text x="430.0" y="38.0" font-family="'Courier New', Consolas, monospace" font-size="19" font-weight="bold"
+        letter-spacing="2" text-anchor="middle" fill="url(#orange)">ABOUT ME</text>
+</svg>

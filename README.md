@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/header-final.gif" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/header.gif" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
 </div>
 
+###
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/bhagaskuro/" target="_blank">
+  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/divider-connect.svg" alt="Connect with me at" width="100%" />
+</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/bhagas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:bhagaskuro@gmail.com" target="_blank">
@@ -19,7 +25,9 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/divider-about-me.svg" alt="About Me" width="100%" />
+</div>
 
 <div align="left">
 
@@ -33,7 +41,9 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/divider-tech-stack.svg" alt="Tech Stack" width="100%" />
+</div>
 
 <h4 align="left">Languages</h4>
 <p align="left">
