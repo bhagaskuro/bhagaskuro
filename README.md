@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/bhagaskuro/bhagaskuro/main/assets/header.gif" alt="Bhagaskoro Putra Nindyalit banner" width="100%" />
 </div>
 
-###
 
 <h3 align="left">Connect with me at</h3>
 
